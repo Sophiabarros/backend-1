@@ -1,30 +1,37 @@
 const persons = [
    {
-    name: "Guilherme Carvalho",
-    nickname: "nextage bb",
-    age: 16,
-    email: "guilhermecarvalho@gmail.com"
+    name: "Isabelli",
+    nickname: "Emosapiens",
+    age: 666,
+    email: "sou.mt.emo@gmail.com"
    }, 
 
     {
-    name: "Victor Fustte",
-    nickname: "vg",
-    age: 12,
-    email: "vg_fustte@gmail.com"
+    name: "Rômulo",
+    nickname: "Strume Games",
+    age: 5,
+    email: "academiamedefine@gmail.com"
    }, 
 
     {
     name: "Sophia Leal",
     nickname: "Garota confusa",
     age: 20,
-    email: "sophialeal@gmail.com"
+    email: "amo.homens.sem.camisa@gmail.com"
    }, 
 
     {
-    name: "Laura Rodrigues",
-    nickname: "Laura + ego",
+    name: "Letícia",
+    nickname: "Letícia de Jeisus",
     age: 17,
-    email: "lauraamavictor@gmail.com"
+    email: "100%cristo@gmail.com"
+   }, 
+
+    {
+    name: "Camily",
+    nickname: "Top",
+    age: 17,
+    email: "camily_nos_republicados@gmail.com"
    }, 
 ]
 
